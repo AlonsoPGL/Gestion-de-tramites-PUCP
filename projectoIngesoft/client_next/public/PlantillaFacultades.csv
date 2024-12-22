@@ -1,0 +1,3 @@
+﻿codigo;nombre;telefonoContacto;correoContacto;direccionWeb;secretario_academico_nombre;secretario_academico_codigo
+texto (max 10 caracteres) y que no haya sido asignado a otra facultad;texto (max 100 caracteres);9 digitos numericos;correo valido;URL valida;texto (nombres y apellidos);codigo existente y no asignado a otra facultad
+LETRAS;Facultad de Letras y Humanidades;999777666;letras@universidad.edu.pe;www.letras.universidad.edu.pe;María García;87654321

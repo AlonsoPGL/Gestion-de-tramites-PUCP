@@ -1,0 +1,12 @@
+package pe.edu.pucp.onepucp.solicitudes.model;
+
+public enum EstadoAprobacion {
+    INACTIVA,
+    EN_REVISION_POR_ASESOR,
+    OBSERVADO_POR_ASESOR,
+    EN_REVISION_POR_COORDINADOR,
+    OBSERVADO_POR_COORDINADOR,
+    EN_REVISION_POR_DIRECTOR,
+    OBSERVADO_POR_DIRECTOR,
+    APROBADA
+}
